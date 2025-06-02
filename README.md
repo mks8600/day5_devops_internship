@@ -20,7 +20,7 @@ This repository documents my completion of **Task 5** from the DevOps Internship
 ## 🚀 Step-by-Step Implementation
 
 ### 1. Environment Setup
-```bash
+
 # Install kubectl and minikube
 # Start the cluster
 minikube start --driver=docker
