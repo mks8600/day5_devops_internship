@@ -51,13 +51,16 @@ kubectl get pods
 <img width="1440" alt="Screenshot 2025-06-02 at 10 40 15 AM" src="https://github.com/user-attachments/assets/6b1e22f9-3452-448d-a932-6e402a6a161a" />
 
 2.complete termin
+
 <img width="1440" alt="Screenshot 2025-06-02 at 10 35 34 AM" src="https://github.com/user-attachments/assets/2028feee-9886-4733-bd43-9d90f4e2d5cb" />
 al
 
 3.kubectl get pods
+
 <img width="515" alt="Screenshot 2025-06-02 at 10 34 08 AM" src="https://github.com/user-attachments/assets/3e72bcd4-5937-48fe-b07b-5683dd4256d5" />
 
 4.kubectl get services
+
 <img width="574" alt="Screenshot 2025-06-02 at 10 35 22 AM" src="https://github.com/user-attachments/assets/ebeefad5-2fc7-4f44-a2bd-bbaae8c8979e" />
 
 📚 Key Concepts Learned
